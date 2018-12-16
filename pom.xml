@@ -27,6 +27,7 @@
         <module>springcloud-service-provider</module>
         <module>springcloud-service-ribbon</module>
         <module>springcloud-service-feign</module>
+        <module>springcloud-service-zuul</module>
     </modules>
 
     <dependencies>
